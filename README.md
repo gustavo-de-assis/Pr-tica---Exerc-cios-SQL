@@ -1,1 +1,1 @@
-# Pr-tica---Exerc-cios-SQL
+# Prática - Exercícios-SQL
